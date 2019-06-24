@@ -13,7 +13,7 @@ your mind, picking the remaining box?
 This is a Spring Boot application with a REST Interface. To start the simulation of the game:
 
 * Run the application using the local development environment  for example Intellij or eclipse .
-* When the application is up and running start your API tool for example Postman and provide URL below.  
+* When the application is up and running start your API tool for example Postman and provide the URL below.  
 
 * **URL**
 
